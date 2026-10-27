@@ -1,4 +1,4 @@
-# Networkwalks-Momina-B084J-week1-Cybersecurity-Lab-Setup
+# NETWORKWALKS-Momina-B084J-W1-CyberSecurity-Lab-Setup
 Cybersecurity Lab Setup using Virtualbox and Kali linux
 
 ---
@@ -66,7 +66,8 @@ The Kali Linux image was downloaded from the official source and added to Virtua
 * A shared directory was also enabled to easily move files back and forth between the host system and the virtual machine.
 
 ![Kali Virtual Machine Network Adapter](nat%20network4.jpg)
-![Kali Linux Desktop Interface](kalipic.jpg)
+
+![Kali Linux Desktop Interface](kalipic.jpeg)
 
 ## Step 5.
 The network settings inside Kali Linux were configured to use a fixed IPv4 address.
@@ -78,7 +79,7 @@ The network settings inside Kali Linux were configured to use a fixed IPv4 addre
 
 Having a fixed address makes documentation cleaner and ensures you can easily reference your attacking machine in upcoming labs.
 
-![Kali Linux IP Address Verification](ipconfig%20kali.jpg)
+![Kali Linux IP Address Verification](ipconfig.jpeg)
 
 ## Step 6.
 Once everything was configured, a recovery checkpoint was captured in VirtualBox.
